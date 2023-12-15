@@ -9,3 +9,8 @@ Steps to access the simulation:-
 - Once added open the project
 - Open the Build Settings and Add the MainMenuScene, PreQuiz, PulleyScene, and PostQuiz scene and press Build and Run with the Oculus Connected.
 -The Application should run on the oculus once the project finished building. 
+
+Project contributors:
+- Colt Uhlenhopp
+- Mahlete Legesse
+- Spencer Meren
